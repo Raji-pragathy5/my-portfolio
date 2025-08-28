@@ -5,11 +5,8 @@ A responsive personal portfolio built with HTML and CSS to showcase my projects,
 Features:
 Responsive design
 
-
 Projects showcase
 
-
 About section
-
 
 Contact info
